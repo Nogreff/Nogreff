@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Gonzalo Fernandois</h1>
 <h3 align="center">A frontend developer from Chile</h3>
 <br></br>
-- 🌱 I’m currently learning **JavaScript, ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://gonzalofernandois.onrender.com/](https://gonzalofernandois.onrender.com/)
+* 🌱 I’m currently learning **JavaScript, ReactJS**
 
-- 📫 How to reach me **gfernandois89@gmail.com**
+* 👨‍💻 All of my projects are available at [https://gonzalofernandois.onrender.com/](https://gonzalofernandois.onrender.com/)
+
+* 📫 How to reach me **gfernandois89@gmail.com**
 <br></br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
