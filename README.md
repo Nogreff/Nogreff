@@ -6,7 +6,7 @@
 
 * 👨‍💻 All of my projects are available at [https://gonzalofernandois.onrender.com/](https://gonzalofernandois.onrender.com/)
 
-* 📫 How to reach me **gfernandois89@gmail.com**
+* 📫 How to reach me **gonzalo.fernandois.dev@gmail.com**
 <br></br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
